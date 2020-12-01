@@ -10,3 +10,5 @@
 + single-row-deadlock: https://blog.sqlxdetails.com/single-row-deadlock/
 
 + http2_protocol_error: https://phabricator.wikimedia.org/T209590
+
++ mysql_index_string_integer: https://stackoverflow.com/questions/16786063/mysql-comparison-of-integer-value-and-string-field-with-index
