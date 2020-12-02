@@ -1,4 +1,4 @@
-# pitfalls
+# treasure
 
 ## resolved issues
 
@@ -12,3 +12,5 @@
 + http2_protocol_error: https://phabricator.wikimedia.org/T209590
 
 + mysql_index_string_integer: https://stackoverflow.com/questions/16786063/mysql-comparison-of-integer-value-and-string-field-with-index
+
++ mysql_ddl_metadata_lock: https://dev.mysql.com/doc/refman/5.7/en/innodb-online-ddl-performance.html
