@@ -4,6 +4,7 @@
 
 + websocket_TEXT_PARTIAL_WRITING: https://bz.apache.org/bugzilla/show_bug.cgi?id=64061
 + zip4j_mac_cant_open: https://github.com/srikanth-lingala/zip4j/issues/86
++ spring_boot_mvc_auto_conf: https://docs.spring.io/spring-boot/docs/2.1.x/reference/html/boot-features-developing-web-applications.html#boot-features-spring-mvc-auto-configuration
 
 ## root causes
 
