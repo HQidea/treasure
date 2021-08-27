@@ -5,6 +5,8 @@
 + websocket_TEXT_PARTIAL_WRITING: https://bz.apache.org/bugzilla/show_bug.cgi?id=64061
 + zip4j_mac_cant_open: https://github.com/srikanth-lingala/zip4j/issues/86
 + spring_boot_mvc_auto_conf: https://docs.spring.io/spring-boot/docs/2.1.x/reference/html/boot-features-developing-web-applications.html#boot-features-spring-mvc-auto-configuration
++ spring_config_custom_datasource: https://docs.spring.io/spring-boot/docs/2.1.18.RELEASE/reference/html/howto-data-access.html#howto-configure-a-datasource
++ mybatis_multiple_datasource: https://github.com/kazuki43zoo/mybatis-spring-boot-multi-ds-demo/blob/master/src/main/java/com/example/MybatisDemoApplication.java
 
 ## root causes
 
