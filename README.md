@@ -8,7 +8,7 @@
 + spring_config_custom_datasource: https://docs.spring.io/spring-boot/docs/2.1.18.RELEASE/reference/html/howto-data-access.html#howto-configure-a-datasource
 + mybatis_multiple_datasource: https://github.com/kazuki43zoo/mybatis-spring-boot-multi-ds-demo/blob/master/src/main/java/com/example/MybatisDemoApplication.java
 + http.proxyHost_not_working_in_resttemplate: https://hc.apache.org/httpcomponents-client-4.5.x/current/httpclient/apidocs/org/apache/http/impl/client/HttpClientBuilder.html, https://cwiki.apache.org/confluence/display/HttpComponents/HttpClientConfiguration
-+ spring_boot_2_db_initialization: https://stackoverflow.com/questions/51146269/spring-boot-2-multiple-datasources-initialize-schema/55378247, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/DataSourceInitializer.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/support/ResourcePatternResolver.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.html
++ spring_boot_2nd_db_initialization: https://stackoverflow.com/questions/51146269/spring-boot-2-multiple-datasources-initialize-schema/55378247, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/DataSourceInitializer.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/support/ResourcePatternResolver.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.html
 
 ## root causes
 
