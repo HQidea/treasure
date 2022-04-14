@@ -23,3 +23,5 @@
 + mysql_ddl_metadata_lock: https://dev.mysql.com/doc/refman/5.7/en/innodb-online-ddl-performance.html
 
 + logback_not_deleting_old_files: https://jira.qos.ch/browse/LOGBACK-162?page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel&showAll=true, https://github.com/qos-ch/logback/blob/master/logback-core/src/main/java/ch/qos/logback/core/rolling/helper/TimeBasedArchiveRemover.java
+
++ mysql_rounding_millseconds: https://bugs.mysql.com/bug.php?id=68760, https://dev.mysql.com/doc/refman/5.6/en/fractional-seconds.html
