@@ -11,6 +11,7 @@
 + spring_boot_2nd_ds_initialization: https://stackoverflow.com/questions/51146269/spring-boot-2-multiple-datasources-initialize-schema/55378247, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/DataSourceInitializer.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/support/ResourcePatternResolver.html, https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.html, https://gist.github.com/HQidea/8c876466778283f2d8c57212ecfcd8a3
 + access_request-scoped_bean_inside_a_child_process: https://stackoverflow.com/a/38012270
 + read_x-www-form-urlencoded_as_inputstream: https://hongjiang.info/http-application-x-www-form-urlencoded/, https://stackoverflow.com/questions/18406164/order-of-request-parameters-for-content-type-application-x-www-form-urlencoded-i
++ Java home is different. | Please configure the JDK to match the expected one. : https://youtrack.jetbrains.com/issue/IDEA-257065#focus=Comments-27-4649429.0-0 : choose specified jdk rather than JAVA_HOME
 
 ## root causes
 
