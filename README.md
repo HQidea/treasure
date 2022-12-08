@@ -12,7 +12,8 @@
 + access_request-scoped_bean_inside_a_child_process: https://stackoverflow.com/a/38012270
 + read_x-www-form-urlencoded_as_inputstream: https://hongjiang.info/http-application-x-www-form-urlencoded/, https://stackoverflow.com/questions/18406164/order-of-request-parameters-for-content-type-application-x-www-form-urlencoded-i
 + Java home is different. | Please configure the JDK to match the expected one. : https://youtrack.jetbrains.com/issue/IDEA-257065#focus=Comments-27-4649429.0-0 : choose specified jdk rather than JAVA_HOME
-+ access dockers persistent volumns on mac:https://timonweb.com/docker/getting-path-and-accessing-persistent-volumes-in-docker-for-mac/
++ access dockers persistent volumns on mac: https://timonweb.com/docker/getting-path-and-accessing-persistent-volumes-in-docker-for-mac/
++ None of the configured nodes are available: https://stackoverflow.com/questions/25912572/java-elasticsearch-none-of-the-configured-nodes-are-available
 
 ## root causes
 
