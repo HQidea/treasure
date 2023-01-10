@@ -29,4 +29,4 @@
 
 + mysql_rounding_millseconds: https://bugs.mysql.com/bug.php?id=68760, https://dev.mysql.com/doc/refman/5.6/en/fractional-seconds.html
 
-+ gradle_dependencies_not_modified_as_except: https://docs.spring.io/dependency-management-plugin/docs/current/reference/html/
++ gradle_dependencies_version_not_modified_as_except: https://docs.spring.io/dependency-management-plugin/docs/current/reference/html/
