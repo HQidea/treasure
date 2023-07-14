@@ -32,3 +32,5 @@
 + gradle_dependencies_version_not_modified_as_except: https://docs.spring.io/dependency-management-plugin/docs/current/reference/html/
 
 + memory_fragments: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/reference_guide/s2-proc-buddyinfo, http://andorian.blogspot.com/2014/03/making-sense-of-procbuddyinfo.html, https://oomspot.com/post/k8sshijianzhinanpaicuoanlineicunsuipianhua, https://www.jianshu.com/p/39bb56bf568f 
+
++ HttpComponentsStreamingClientHttpRequest fails if restTemplate has interceptors: https://github.com/spring-projects/spring-framework/issues/21650
