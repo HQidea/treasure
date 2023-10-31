@@ -14,6 +14,7 @@
 + Java home is different. | Please configure the JDK to match the expected one. : https://youtrack.jetbrains.com/issue/IDEA-257065#focus=Comments-27-4649429.0-0 : choose specified jdk rather than JAVA_HOME
 + access dockers persistent volumns on mac: https://timonweb.com/docker/getting-path-and-accessing-persistent-volumes-in-docker-for-mac/
 + None of the configured nodes are available: https://stackoverflow.com/questions/25912572/java-elasticsearch-none-of-the-configured-nodes-are-available
++ package spring multi module project: https://stackoverflow.com/a/64481731
 
 ## root causes
 
